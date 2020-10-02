@@ -15,7 +15,10 @@ ol, ul {
 .brandsHolder .brandsBlock .item img {
 	width: auto;
     height: auto;
-    max-height: 80px;
+    max-height: 65px;
+    max-width: 65px;
+    display: block;
+    margin: 10px auto;
 }
 .brandsHolder .brandsBlock .owl-nav button {
   position: absolute;
@@ -49,16 +52,20 @@ ol, ul {
 /* Home page css start */
 
 /* team page css start */
-.teamHolder .container {
-	max-width: 750px;
-}
+.teamHolder .card-body {
+    display: none;
+} 
 .teamHolder .card {
 	max-width: 320px;
-    margin: auto;
+    margin: 15px auto;
 }
 .teamHolder .card .card-img-block {
 	position: relative;
-	overflow: hidden;
+    overflow: hidden;
+    height: 330px;
+}
+.card-img-top {
+    background: #e8e8e8;
 }
 .teamHolder .card .card-img-block .card-member-desc {
 	background: rgba(0, 0, 0, 0.6) none repeat scroll 0 0;
@@ -208,4 +215,9 @@ header .navbar-brand img {
 }
 .test {
     color: pink;
+}
+.highlight {
+    font-weight: bold;
+    font-style: italic;
+    font-size: 14px;
 }
