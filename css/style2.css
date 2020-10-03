@@ -239,6 +239,6 @@ header .navbar-brand img {
 .contact_list .col-md-4 .icon {
     display: none;
 }
-.accornt-form iframe {
+.accornt-form iframe, .contact-form iframe {
     min-height: 1000px;
 }
