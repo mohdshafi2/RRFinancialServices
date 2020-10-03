@@ -221,3 +221,24 @@ header .navbar-brand img {
     font-style: italic;
     font-size: 14px;
 }
+.contact_list {
+    margin: 20px 0 50px;
+    justify-content: center;
+    align-items: center;
+}
+
+.contact_list .col-md-4 {
+    padding: 20px;
+    text-align: center;
+}
+.contact_list .col-md-4 p {
+    background-color: #f0f9fd;
+    padding: 30px;
+    height: 120px;
+}
+.contact_list .col-md-4 .icon {
+    display: none;
+}
+.accornt-form iframe {
+    min-height: 1000px;
+}
