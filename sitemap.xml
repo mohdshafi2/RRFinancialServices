@@ -8,73 +8,78 @@
 
 
 <url>
-  <loc>https://rrfinancial.services/products.html</loc>
-  <lastmod>2020-10-15T16:01:49+00:00</lastmod>
+  <loc>https://rrfins.com/</loc>
+  <lastmod>2021-07-23T10:34:24+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://rrfinancial.services/index.html</loc>
-  <lastmod>2020-10-15T16:01:49+00:00</lastmod>
+  <loc>https://rrfins.com/index.html</loc>
+  <lastmod>2021-07-23T10:34:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://rrfinancial.services/dp-service.html</loc>
-  <lastmod>2020-10-15T16:01:49+00:00</lastmod>
+  <loc>https://rrfins.com/products.html</loc>
+  <lastmod>2021-07-23T10:34:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://rrfinancial.services/rta.html</loc>
-  <lastmod>2020-10-15T16:01:49+00:00</lastmod>
+  <loc>https://rrfins.com/dp-service.html</loc>
+  <lastmod>2021-07-23T10:34:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://rrfinancial.services/investment_approach.html</loc>
-  <lastmod>2020-10-15T16:01:49+00:00</lastmod>
+  <loc>https://rrfins.com/rta.html</loc>
+  <lastmod>2021-07-23T10:34:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://rrfinancial.services/team.html</loc>
-  <lastmod>2020-10-15T16:01:49+00:00</lastmod>
+  <loc>https://rrfins.com/investment_approach.html</loc>
+  <lastmod>2021-07-23T10:34:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://rrfinancial.services/contact.html</loc>
-  <lastmod>2020-10-15T16:01:49+00:00</lastmod>
+  <loc>https://rrfins.com/team.html</loc>
+  <lastmod>2021-07-23T10:34:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://rrfinancial.services/trading_demat.html</loc>
-  <lastmod>2020-10-15T16:01:49+00:00</lastmod>
+  <loc>https://rrfins.com/contact.html</loc>
+  <lastmod>2021-07-23T10:34:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://rrfinancial.services/training_advisory.html</loc>
-  <lastmod>2020-10-15T16:01:49+00:00</lastmod>
+  <loc>https://rrfins.com/account_protection.html</loc>
+  <lastmod>2021-07-23T10:34:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://rrfinancial.services/loans.html</loc>
-  <lastmod>2020-10-15T16:01:49+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>https://rrfins.com/trading_demat.html</loc>
+  <lastmod>2021-07-23T10:34:24+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://rrfinancial.services/insurance.html</loc>
-  <lastmod>2020-10-15T16:01:49+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>https://rrfins.com/training_advisory.html</loc>
+  <lastmod>2021-07-23T10:34:24+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://rrfinancial.services/audit.html</loc>
-  <lastmod>2020-10-15T16:01:49+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>https://rrfins.com/loans.html</loc>
+  <lastmod>2021-07-23T10:34:24+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://rrfinancial.services/mutualfunds.html</loc>
-  <lastmod>2020-10-15T16:01:49+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>https://rrfins.com/insurance.html</loc>
+  <lastmod>2021-07-23T10:34:24+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://rrfinancial.services/account_protection.html</loc>
-  <lastmod>2020-10-15T16:01:49+00:00</lastmod>
+  <loc>https://rrfins.com/audit.html</loc>
+  <lastmod>2021-07-23T10:34:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://rrfins.com/mutualfunds.html</loc>
+  <lastmod>2021-07-23T10:34:24+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 
